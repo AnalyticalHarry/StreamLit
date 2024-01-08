@@ -9,6 +9,7 @@ pip install streamlit
 import streamlit as st
 ```
 
+## Run in CMD prompt or power shell 
 ```bash
 streamlit run first_app.py
 ```

@@ -1,4 +1,4 @@
-# Streamlit Cheat Sheet
+# Streamlit Tutorials
 
 ## Install & Import
 

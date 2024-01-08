@@ -303,6 +303,7 @@ st.info('Info message')
 st.success('Success message')
 st.exception(e)
 ```
+HTML Color Picker : https://www.w3schools.com/colors/colors_picker.asp
 
 [![YouTube](https://img.shields.io/badge/AnalyticalHarry-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnalyticalHarry)
 [![Website](https://img.shields.io/badge/topmate.io-AnalyticalHarry-blue?style=for-the-badge&logo=web)](https://topmate.io/analyticalharry)

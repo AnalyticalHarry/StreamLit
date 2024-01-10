@@ -3,6 +3,8 @@
 
 ## Install & Import
 
+python -m streamlit run app.py
+
 ```bash
 pip install streamlit
 ```
